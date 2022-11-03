@@ -45,6 +45,7 @@ API REST desenvolvida pela instrutora Dani durante o curso Ignite de Node.js.
 - [Prettier](https://prettier.io/)
 - [multer](https://www.npmjs.com/package/multer)
 - [CSV Parse API](https://csv.js.org/parse/api/)
+- [swagger-ui-express](https://www.npmjs.com/package/swagger-ui-express)
 - [VSCode](https://code.visualstudio.com/)
 ---
 
