@@ -11,7 +11,9 @@
   "paths": {
     "/categories": {
       "post": {
-        "tags": ["Category"], 
+        "tags": [
+          "Category"
+        ],
         "summary": "Create a category",
         "description": "Create a new category",
         "requestBody": {
@@ -45,10 +47,12 @@
         }
       },
       "get": {
-        "tags": ["Category"],
+        "tags": [
+          "Category"
+        ],
         "summary": "List all categories",
         "description": "List all categories",
-        "response": {
+        "responses": {
           "200": {
             "description": "Success",
             "content": {
@@ -61,7 +65,9 @@
                       "name": {
                         "type": "string"
                       },
-                      "description": "string"
+                      "description": {
+                        "type": "string"
+                      }
                     }
                   }
                 }
