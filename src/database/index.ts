@@ -3,7 +3,7 @@ import { Category } from "../modules/cars/entities/Category";
 
 export const AppDataSource = new DataSource({
   type: "postgres",
-  host: "database_ignite",
+  host: "localhost",
   port: 5432,
   username: "docker",
   password: "ignite",
