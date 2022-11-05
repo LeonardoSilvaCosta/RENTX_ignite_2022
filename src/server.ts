@@ -4,7 +4,7 @@ import swaggerFile from "./swagger.json";
 
 import { router } from './routes';
 import { AppDataSource } from './database';
-import "reflect-metada";
+import "reflect-metadata";
 
 AppDataSource.initialize()
   .then(() => {
