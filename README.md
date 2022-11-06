@@ -46,7 +46,7 @@ API REST desenvolvida pela instrutora Dani durante o curso Ignite de Node.js.
 - [multer](https://www.npmjs.com/package/multer)
 - [CSV Parse API](https://csv.js.org/parse/api/)
 - [swagger-ui-express](https://www.npmjs.com/package/swagger-ui-express)
-- [swagger-ui-express](https://www.npmjs.com/package/tsyringe?activeTab=readme)
+- [tsyringe](https://www.npmjs.com/package/tsyringe?activeTab=readme)
 - [VSCode](https://code.visualstudio.com/)
 ---
 
