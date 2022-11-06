@@ -1,12 +1,11 @@
 import "reflect-metadata";
 import express from 'express';
+import { AppDataSource } from './database';
 import swaggerUi from "swagger-ui-express";
 import swaggerFile from "./swagger.json";
 
 import "./shared/container"
-import { AppDataSource } from './database';
 import { router } from './routes';
-
 
 AppDataSource.initialize()
 .then(() => {

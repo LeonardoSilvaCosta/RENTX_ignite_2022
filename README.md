@@ -48,6 +48,7 @@ API REST desenvolvida pela instrutora Dani durante o curso Ignite de Node.js.
 - [swagger-ui-express](https://www.npmjs.com/package/swagger-ui-express)
 - [tsyringe](https://www.npmjs.com/package/tsyringe?activeTab=readme)
 - [bcrypt](https://www.npmjs.com/package/bcrypt)
+- [jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)
 - [VSCode](https://code.visualstudio.com/)
 ---
 
