@@ -2,7 +2,7 @@ import { Router } from 'express';
 
 import { categoriesRoutes } from './categories.routes';
 import { specificationsRoutes } from './Specifications.routes';
-import { usersRoutes } from './users.routes';
+import { usersRoutes } from './Users.routes';
 
 const router = Router();
 

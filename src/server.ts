@@ -1,16 +1,15 @@
+import "reflect-metadata";
 import express from 'express';
 import swaggerUi from "swagger-ui-express";
 import swaggerFile from "./swagger.json";
-import "reflect-metadata";
 
 import "./shared/container"
-import { router } from './routes';
 import { AppDataSource } from './database';
+import { router } from './routes';
 
 
 AppDataSource.initialize()
 .then(() => {
-    console.log("Data Source has been initialized!")
     const app = express();
 
     app.use(express.json());

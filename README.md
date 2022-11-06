@@ -47,6 +47,7 @@ API REST desenvolvida pela instrutora Dani durante o curso Ignite de Node.js.
 - [CSV Parse API](https://csv.js.org/parse/api/)
 - [swagger-ui-express](https://www.npmjs.com/package/swagger-ui-express)
 - [tsyringe](https://www.npmjs.com/package/tsyringe?activeTab=readme)
+- [bcrypt](https://www.npmjs.com/package/bcrypt)
 - [VSCode](https://code.visualstudio.com/)
 ---
 
