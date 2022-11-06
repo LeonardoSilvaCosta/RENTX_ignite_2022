@@ -14,5 +14,5 @@ export const AppDataSource = new DataSource({
   logging: false,
   entities: [Category, Specification, User],
   subscribers: [],
-  migrations: ["./src/database/migrations/1667692367429-CreateUsers'.ts"],
+  migrations: ["./src/database/migrations/1667698222725-AlterUserDeleteUsername.ts"],
 })
