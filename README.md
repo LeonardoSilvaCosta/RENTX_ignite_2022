@@ -50,6 +50,7 @@ API REST desenvolvida pela instrutora Dani durante o curso Ignite de Node.js.
 - [tsyringe](https://www.npmjs.com/package/tsyringe?activeTab=readme)
 - [bcrypt](https://www.npmjs.com/package/bcrypt)
 - [jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)
+- [express-async-errors](https://www.npmjs.com/package/express-async-errors)
 - [VSCode](https://code.visualstudio.com/)
 ---
 
