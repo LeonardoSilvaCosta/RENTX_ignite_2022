@@ -1,0 +1,5 @@
+Corrigir
+[] Arquivo tmp não está sendo consumido pela api para inserir novos dados no banco de dados
+[] É necessário ficar especificando as migrations no dataSource para dar certo
+[] O banco de dados postgresql tem problema sempre que uma nova dependência é adicionada ao projeto
+[] Para funcionar o banco de dados, é necessário colocar em host do datasource o nome do container do postgres, mas para rodar as migrations, tem que colocar localhost
