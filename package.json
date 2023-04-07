@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "ts-node-dev --inspect --transpile-only --ignore-watch node_modules --respawn src/server.ts",
     "typeorm": "ts-node-dev ./node_modules/typeorm/cli",
-    "migration:create": "ts-node-dev ./node_modules/typeorm/cli migration:create ./src/database/migrations/",
+    "migration:create": "ts-node-dev ./node_modules/typeorm/cli migration:create",
     "migration:run": "ts-node-dev ./node_modules/typeorm/cli migration:run -d ./src/database/index.ts",
     "dc-down": "sudo docker-compose down",
     "dc-up-recreate": "sudo docker-compose up -d --force-recreate",
